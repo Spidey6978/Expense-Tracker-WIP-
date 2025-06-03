@@ -43,3 +43,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore Flutter generated plugin registrant files
+**/GeneratedPluginRegistrant.*
+
+# Ignore windows platform generated files
+windows/flutter/
+
+# Ignore Android plugin registrant files
+android/app/src/main/java/io/flutter/plugins/
+
+# Ignore iOS plugin registrant files
+ios/Runner/GeneratedPluginRegistrant.*
+
