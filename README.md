@@ -1,6 +1,5 @@
-# fosshack_practice
-
-A new Flutter project.
+# Expense Tracker (WIP - probably still buggy)
+A project i decided to start to understand and implement flutter.
 
 ## Getting Started
 
