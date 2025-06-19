@@ -1,5 +1,6 @@
 # Expense Tracker (WIP - probably still buggy)
-A project i decided to start to understand and implement flutter.
+A project I decided to start to understand and implement Flutter. Isn't complete yet, but will be soon.
+You can keep a record of transactions between contacts using this app by adding a contact and adding a specific amount that you owe them/ have to receive from them.
 
 ## Getting Started
 
