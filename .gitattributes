@@ -1,0 +1,9 @@
+# Ignore native platform folders for language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+
+# Make sure Dart files are recognized
+*.dart linguist-language=Dart
